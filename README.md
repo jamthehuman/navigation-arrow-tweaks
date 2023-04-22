@@ -1,6 +1,9 @@
 
 # Navigation Arrow Tweaks
 BeamNG mod for navigation arrows removal.
+
+![](https://i.imgur.com/xrOwWq3.jpg)
+
 ## Features
 - Remove arrows on the ground.
 - Remove arrows at the road crossings.
